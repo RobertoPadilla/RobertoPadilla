@@ -1,4 +1,2 @@
-### Hola!!! Soy Roberto Padilla. En camino hacia SRE con 23 años 🤙
----
 
-@PilloElHumilde para jugar y conversar 🎮🏈
+## Hi! I'm Roberto Padilla. On road to be SRE. 🤓
